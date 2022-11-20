@@ -1,6 +1,11 @@
 import styled from "styled-components";
 
 export const BottomContainer = styled.div`
+  position:fixed;
+  bottom:0;
+  width:360px;
+  /* left:0; */
+  /* right:0; */
   display: flex;
   justify-content: center;
   align-items: center;
