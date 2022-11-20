@@ -8,7 +8,7 @@ export const IntroContainer = styled.div`
     #fcfcfc 67.23%,
     #ffffff 100%
   );
-  padding: 70px 20px;
+  padding: 70px 20px 20px;
 `;
 
 export const IntroHeader = styled.div`

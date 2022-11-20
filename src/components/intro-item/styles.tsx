@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const ItemContainer = styled.div`
+  margin: 20px auto;
   width: 300px;
   height: 135px;
   padding: 30px 24px;
